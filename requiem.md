@@ -111,7 +111,7 @@ Ho -- sti -- as et pre -- ces ti -- bi, Do -- mi -- ne,
 lau -- dis of -- fe -- ri -- mus:
 Tu su -- sci -- pe pro a -- ni -- ma -- bus il -- lis,
 qua -- rum ho -- di -- e me -- mo -- ri -- am fa -- ci -- mus.
-Fac e -- as, Do -- mi -- ne, de mor -- te tran -- si -- re ad vi -- tam.
+Fac e -- as, Do -- mi -- ne, de mor -- te trans -- i -- re ad vi -- tam.
 Quam o -- lim A -- bra -- hae pro -- mi -- si -- sti, et se -- mi -- ni e -- ius.
 
 
