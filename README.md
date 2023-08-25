@@ -11,6 +11,7 @@ A collection of lyrics for sacral music, hyphenated for usage in LilyPond.
 - `bible_verses`: bible verses mainly used in graduals and offertories
 - `canticles`: *Magnificat*
 - `hymns`: *Tantum ergo*, *Te Deum* and others
+- `introitus`: bible verses for introitus
 - `litanies`: *Litaniae lauretanae*, *Litaniae de venerabili sacramento*
 - `misc`: various texts
 - `psalms`: complete psalms for vespers: *Dixit Dominus* (110/109), *Confitebor* (111/110), *Beatus vir* (112/111), *Laudate pueri* (113/112), *Laudate Dominum* (117/116); *Miserere* (51/50) and others
