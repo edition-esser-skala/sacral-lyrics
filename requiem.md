@@ -19,7 +19,7 @@ Ky -- ri -- e e -- lei -- son.
 
 # Sequentia
 
-Di -- es ir -- ae, di -- es il -- la
+Di -- es i -- rae, di -- es il -- la
 sol -- vet sae -- clum in fa -- vil -- la:
 Te -- ste Da -- vid cum Si -- byl -- la.
 
